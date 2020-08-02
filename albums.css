@@ -1,0 +1,22 @@
+
+h1{
+    font-family: 'Gill Sans Light', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    font-weight: 100;   
+}
+.textContent{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+.cardButton1:hover{
+    background-color: darkslategray;
+    color:white 
+}
+.cardButton2:hover{
+    background-color: darkslategray;
+    color:white
+    
+}
+.midContent{
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
